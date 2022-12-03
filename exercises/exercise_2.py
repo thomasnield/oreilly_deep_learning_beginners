@@ -6,8 +6,7 @@ on a maintenance dataset on whether a part needs replacement (1) or not (0).
 Use 3 nodes in the hidden layer, and ReLU as the activation function.
 Experiment with learning rate and iterations to optimize training. 
 
-Set aside 1/3 of the data for testing, then evaluate performance 
-with a confusion matrix.
+Set aside 1/3 of the data for testing.
 """
 
 import pandas as pd
