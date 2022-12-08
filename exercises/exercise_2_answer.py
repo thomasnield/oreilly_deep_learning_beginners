@@ -3,7 +3,7 @@ import pandas as pd
 
 all_data = pd.read_csv("https://bit.ly/3wlFsb4")
 
-# Extract the input columns, scale down by 255
+# Extract the input columns, scale down
 X = (all_data.iloc[:, 0:3].values / 1000.0)
 Y = all_data.iloc[:, -1].values
 
