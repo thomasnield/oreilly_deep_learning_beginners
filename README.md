@@ -7,6 +7,9 @@ https://learning.oreilly.com/live-events/deep-learning-for-beginners-in-3-weeks/
 ### Labs
 [https://learning.oreilly.com/search/?q=neural%20networks%20thomas%20nield&type=sandbox&type=sandbox&type=scenario&type=sandbox&type=scenario&type=cloud-scenario&rows=100](Find labs for this class here]
 
+### Recommended Reading 
+[Chapter 7 of _Essential Math for Data Science_](https://learning.oreilly.com/library/view/essential-math-for/9781098102920/ch07.html) 
+
 ### 3-Minute Video 
 https://youtu.be/iyrmwErURJs?si=fuDVfOKugZowdYH5
 
