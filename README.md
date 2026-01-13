@@ -7,6 +7,9 @@ https://learning.oreilly.com/live-events/deep-learning-for-beginners-in-3-weeks/
 ### Labs
 [https://learning.oreilly.com/search/?q=neural%20networks%20thomas%20nield&type=sandbox&type=sandbox&type=scenario&type=sandbox&type=scenario&type=cloud-scenario&rows=100](Find labs for this class here]
 
+### 3-Minute Video 
+https://youtu.be/iyrmwErURJs?si=fuDVfOKugZowdYH5
+
 ### Further Plugs 
 My new Manning book _Grokking Statistics_ is available for early release!
 [https://hubs.la/Q03Kvp3z0](https://hubs.la/Q03Kvp3z0)
